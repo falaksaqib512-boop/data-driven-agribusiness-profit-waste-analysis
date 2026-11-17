@@ -41,7 +41,7 @@ Net Profit Breakdown by Crop & Farm
 
 Supply-Chain Waste During Transit
 
-"Supply Chain Waste" ()
+"Supply Chain Waste" (IMG_20261117_221839_861.png)
 
 Project Workflow
 
