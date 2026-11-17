@@ -37,11 +37,11 @@ Visualizations
 
 Net Profit Breakdown by Crop & Farm
 
-"Net Profit Breakdown" (images/net-profit-breakdown.png)
+"Net Profit Breakdown" (IMG_20261117_221839_861.png)
 
 Supply-Chain Waste During Transit
 
-"Supply Chain Waste" (images/supply-chain-waste.png)
+"Supply Chain Waste" ()
 
 Project Workflow
 
